@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/qifwednad/static/css/main.cef006cd.css",
+    "main.js": "/qifwednad/static/js/main.b7881b8e.js",
+    "index.html": "/qifwednad/index.html",
+    "main.cef006cd.css.map": "/qifwednad/static/css/main.cef006cd.css.map",
+    "main.b7881b8e.js.map": "/qifwednad/static/js/main.b7881b8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cef006cd.css",
+    "static/js/main.b7881b8e.js"
+  ]
+}
