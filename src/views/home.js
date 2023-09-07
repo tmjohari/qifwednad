@@ -82,7 +82,7 @@ const Home = (props) => {
       <div id="SaveTheDate" className="home-save-the-date">
         <img
           alt="image"
-          src="/cover3-edit2-1400w.jpg"
+          src="/qifwednad/cover3-edit2-1400w.jpg"
           loading="eager"
           className="home-image"
         />
@@ -178,7 +178,7 @@ const Home = (props) => {
                 </span>
               </div>
               <div className="home-container06">
-                <img alt="image" src="/qr1-600w.png" className="home-image2" />
+                <img alt="image" src="/qifwednad/qr1-600w.png" loading="eager" className="home-image2" />
               </div>
             </div>
             <div className="home-container07">
@@ -233,7 +233,7 @@ const Home = (props) => {
                 </span>
               </div>
               <div className="home-container13">
-                <img alt="image" src="/qr1-600w.png" className="home-image5" />
+                <img alt="image" src="/qifwednad/qr1-600w.png" className="home-image5" />
               </div>
             </div>
             <div className="home-container14">
